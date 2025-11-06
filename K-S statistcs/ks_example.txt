@@ -1,3 +1,0 @@
-ks test nsr vs chf: statstic = 0.718944099378882, p-value = 8.149814072028123e-07
-ks test nsr vs af: statstic = 0.8474025974025974, p-value = 8.363721967294411e-16
-ks test chf vs af: statstic = 0.3455674760022586, p-value = 0.02107488073034266
