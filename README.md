@@ -13,8 +13,8 @@ File/folder description
 1. /header: header files including all function for the analysis
 2. /run: execution files
 
-main.c: main c file
+   main.c: main c file
 
-run.sh: shell script for compiling and running the program
+   run.sh: shell script for compiling and running the program
 
-timings_example.txt: a sample heartbeat time series.
+   timings_example.txt: a sample heartbeat time series.
