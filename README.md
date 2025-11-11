@@ -18,3 +18,5 @@ File/folder description
    run.sh: shell script for compiling and running the program
 
    timings_example.txt: a sample heartbeat time series.
+3. /SVM: Support Vector Machine codes and input features
+4. /KS_statistics: Sample codes with a sample txt file to evaluate the K-S statistics   
